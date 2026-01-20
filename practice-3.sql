@@ -13,3 +13,4 @@
 -- | Beverly                |
 
 
+select neighborhood from listings group by neighborhood order by neighborhood;
